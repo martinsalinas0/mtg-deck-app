@@ -1,10 +1,10 @@
 export default function  Yeet() { 
   return (
-    <div>
-      <div className="container is-primary">
-        <input type="text" className="input is-link m-6" placeholder="search here" />
-        <button className="button is-light">Search Here</button>
-      </div>
-    </div>
+<div className="container col-md-4 m-3" >
+ <div className="row">
+  <input type="text" className="form-control" placeholder="Search Card" />
+  <button type="button" className="btn btn-info">SEARCH</button>
+ </div>
+</div>
   )
 } 
