@@ -1,3 +1,7 @@
 export default function ShopList () { 
-  return 
+  return ( 
+    <div className="container">
+      LOL SHOP LIST 
+    </div>
+  )
 }
