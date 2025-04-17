@@ -1,0 +1,12 @@
+chai 
+
+
+- should 
+-expect
+-assert
+
+expect(subtotal).to.equal(0)
+
+
+EXAMPLE: 
+we chain together all of these methods from chai//
