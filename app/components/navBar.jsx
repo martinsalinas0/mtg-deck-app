@@ -14,7 +14,7 @@ const Navbar = () => {
     >
       <div className="navbar-brand">
         <a className="navbar-item" href="/">
-          <strong>MyApp</strong>
+          <strong>Magic the Gathering Deck Builder</strong>
         </a>
 
         {/* Hamburger menu for mobile */}
@@ -37,7 +37,7 @@ const Navbar = () => {
             
           </a>
           <a className="navbar-item" href="/about">
-            About
+            Decks
           </a>
           <a className="navbar-item" href="/contact">
             Contact
