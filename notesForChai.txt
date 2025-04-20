@@ -6,7 +6,7 @@ chai
 -assert
 
 expect(subtotal).to.equal(0)
-
+chai.thhp
 
 EXAMPLE: 
 we chain together all of these methods from chai//
